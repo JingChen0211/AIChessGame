@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.h(55): warning C4305: “初始化”: 从“double”到“float”截断
+  AIChessGame.vcxproj -> C:\Users\rokmy\source\repos\AIChessGame\x64\Debug\AIChessGame.exe

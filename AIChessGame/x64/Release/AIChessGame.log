@@ -1,0 +1,82 @@
+﻿  Chess.cpp
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.h(52): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(50,3): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(50,3): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [21]”转换为“LPCTSTR”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(50,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(50,3): message : 尝试匹配参数列表“(int, const char [21])”时
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(53,3): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(53,3): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(53,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(53,3): message : 尝试匹配参数列表“(int, const char [20])”时
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(56,3): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(56,3): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(56,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(56,3): message : 尝试匹配参数列表“(int, const char [20])”时
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(63,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(63,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(63,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(63,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(63,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(63,2): message : 尝试匹配参数列表“(IMAGE *, const char [19], float, float, bool)”时
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(64,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(64,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(64,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(64,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(64,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(64,2): message : 尝试匹配参数列表“(IMAGE *, const char [19], float, float, bool)”时
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(68,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(68,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [5]”转换为“TCHAR”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(68,21): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(68,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(68,21): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(68,2): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(78,104): warning C4305: “初始化”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(85,68): warning C4305: “初始化”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(92,43): warning C4305: “初始化”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(144,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(145,10): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(147,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(148,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(188,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(189,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(219,4): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(219,4): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [16]”转换为“LPCTSTR”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(219,17): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(219,4): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [16]”转换为“LPCTSTR”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(219,17): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(219,4): message : 尝试匹配参数列表“(int, const char [16], int, int)”时
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(222,4): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(222,4): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [15]”转换为“LPCTSTR”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(222,17): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(222,4): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [15]”转换为“LPCTSTR”
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(222,17): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\rokmy\source\repos\AIChessGame\AIChessGame\Chess.cpp(222,4): message : 尝试匹配参数列表“(int, const char [15], int, int)”时
